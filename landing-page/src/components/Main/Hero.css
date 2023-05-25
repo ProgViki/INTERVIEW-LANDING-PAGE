@@ -1,0 +1,60 @@
+.hero{
+    
+    width: 90%;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+.main-first{
+
+background: #5D5FEF;
+border-radius: 30px;
+/* margin: 188px 71px 50px 98px; */
+/* margin: 0 auto; */
+font-size: 50px;
+font-family: "Poppins";
+width: 90%;
+height: 498px;
+left: 98px;
+top: 188px;
+
+}
+
+.first-cont{
+    color: white;
+    margin: 20px 10px 10px 10px;
+    padding: 30px 10px;
+}
+.pixc{
+    /* float: right; */
+    /* margin-bottom: 60px; */
+    
+    /* padding-top: 30px; */
+    position: absolute;
+    width: 696.49px;
+    height: 360.65px;
+    left: 677px;
+    top: 252px;
+    /* padding: 64px 4px 73px 578px; */
+    /* margin: 0 auto; */
+
+}
+.pixa{
+    
+position: absolute;
+width: 273px;
+height: 75px;
+left: 158px;
+top: 558px;
+}
+.pixb{
+    position: absolute;
+width: 273px;
+height: 75px;
+left: 452px;
+top: 558px;
+}
